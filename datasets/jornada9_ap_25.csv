@@ -1,0 +1,10 @@
+id,referee,timezone,date,venue_id,venue_name,venue_city,season,round,home_team,away_team,home_win,away_win,home_goals,away_goals,home_goals_half_time,away_goals_half_time,home_goals_fulltime,away_goals_fulltime,home_goals_extra_time,away_goals_extratime,home_goals_penalty,away_goals_penalty
+2025072,,UTC,2025-09-19T19:00:00+00:00,,Estadio Azteca,D.F.,2025,Apertura - 9,Cruz Azul,FC Juarez,,,,,,,,,,,,,
+2025073,,UTC,2025-09-19T19:00:00+00:00,,Estadio Victoria,Aguascalientes,2025,Apertura - 9,Necaxa,Puebla,,,,,,,,,,,,,
+2025074,,UTC,2025-09-19T21:00:00+00:00,,Estadio de Mazatlán,Mazatlán,2025,Apertura - 9,Mazatlán,Atlas,,,,,,,,,,,,,
+2025075,,UTC,2025-09-19T21:05:00+00:00,,Estadio Caliente,Tijuana,2025,Apertura - 9,Club Tijuana,Leon,,,,,,,,,,,,,
+2025076,,UTC,2025-09-20T17:00:00+00:00,,Estadio Hidalgo,Pachuca de Soto,2025,Apertura - 9,Pachuca,Club Queretaro,,,,,,,,,,,,,
+2025077,,UTC,2025-09-20T19:07:00+00:00,,Estadio AKRON,Zapopan,2025,Apertura - 9,Guadalajara Chivas,Toluca,,,,,,,,,,,,,
+2025078,,UTC,2025-09-20T21:05:00+00:00,,Estadio BBVA,Guadalupe,2025,Apertura - 9,Monterrey,Club America,,,,,,,,,,,,,
+2025079,,UTC,2025-09-21T17:00:00+00:00,,Estadio Nuevo Corona,Torreón,2025,Apertura - 9,Santos Laguna,Atletico San Luis,,,,,,,,,,,,,
+2025080,,UTC,2025-09-20T19:00:00+00:00,,Estadio Olímpico de Universitario,D.F.,2025,Apertura - 9,U.N.A.M. - Pumas,Tigres UANL,,,,,,,,,,,,,
